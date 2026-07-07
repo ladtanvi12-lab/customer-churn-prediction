@@ -1,6 +1,6 @@
 **INTERN ID : CITS4956**
 **FULL NAME : TANVI SUDESH LAD**
-**NO. OF WEEKS : 4**
+**NO. OF WEEKS : 04**
 **PROJECT NAME : CUSTOMER CHURN PREDICTION**
 **PROJECT SCOPE : Build an end-to-end ML solution to predict telecom customer churn using Python Random Forest model and visualize key drivers + revenue impact through interactive Dash and Power BI dashboards for proactive retention strategy.
 **
